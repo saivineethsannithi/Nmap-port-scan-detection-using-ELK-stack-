@@ -285,7 +285,7 @@ nmap-elk-detection/
 
 
 
-## 📄 License<img width="610" height="341" alt="Screenshot 2026-02-28 184422" src="https://github.com/user-attachments/assets/a1257132-08ae-43f5-83c7-29e5aa854672" />
+## 📄 License
 
 
 This project is licensed under the [MIT License](LICENSE).
