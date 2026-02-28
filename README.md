@@ -203,12 +203,25 @@ This simulates basic **SOC Tier 1 detection logic** for identifying reconnaissan
 
 ## 🖼️ Screenshots
 
-| Screenshot | Description |
-|------------|-------------|
-| `screenshots/alert_triggered.png` | Kibana alert — status Active, query matched |
-| `screenshots/rule_ok.png` | Rule monitoring screen — status OK |
-| `screenshots/visualization.png` | Lens chart showing ports scanned per IP over time |
-| `screenshots/rule_creation.png` | Rule creation with filebeat-* index and @timestamp |
+### 📊 Visualization — Ports Scanned Per IP Over Time
+<img width="613" height="388" alt="visualization" src="https://github.com/user-attachments/assets/5c4a207a-b1cd-4d9d-b9cf-ae002cd41958" />
+
+---
+
+### ⚙️ Rule Creation — filebeat-* Index with @timestamp
+<img width="610" height="385" alt="rule_creation" src="https://github.com/user-attachments/assets/6d006be8-495d-4b71-a1cf-3a9cf0d63fa9" />
+
+---
+
+### ✅ Rule Monitoring — Status OK
+<img width="610" height="341" alt="rule_ok" src="https://github.com/user-attachments/assets/d43e3013-8e95-4ca6-a727-1f68e23b7bba" />
+
+---
+
+### 🚨 Alert Triggered — Status Active, Query Matched
+<img width="1214" height="774" alt="alert_triggered" src="https://github.com/user-attachments/assets/380b7e4c-ecc7-4469-ac9b-e097b6e27ed0" />
+
+ 
 
 ---
 
@@ -270,17 +283,10 @@ nmap-elk-detection/
 └── README.md
 ```
 
----
 
-## 👤 Author
 
-**Your Name**
-- 🔗 GitHub: [@yourusername](https://github.com/yourusername)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+## 📄 License<img width="610" height="341" alt="Screenshot 2026-02-28 184422" src="https://github.com/user-attachments/assets/a1257132-08ae-43f5-83c7-29e5aa854672" />
 
----
-
-## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
 
